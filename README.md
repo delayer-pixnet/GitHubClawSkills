@@ -2,6 +2,8 @@
 
 可重複使用的小龍蝦 Agent Skills 集合。本倉庫目前整理並同步以下技能，提供外部使用者下載、安裝與匯入到自己的工作區。
 
+本專案採用 [MIT License](LICENSE)。
+
 ## 目前提供的 Skills
 
 | Skill | 說明 |
@@ -109,4 +111,4 @@ python .agents/skills/telegram-result-message/scripts/convert_result.py --help
 
 ## 授權
 
-請依你的新 Repo 需求補上授權條款，例如 MIT、Apache-2.0 或內部使用授權。
+本專案採用 MIT License，詳細內容請參閱 [LICENSE](LICENSE)。

@@ -1,0 +1,11 @@
+{
+  "name": "Telegram Result Message",
+  "tagline": "將 result.md 轉成 Telegram 可發送訊息，支援分批傳送",
+  "description": "Telegram Result Message 能讀取 artifacts/{issue-comment-id}/result.md，整理成 Telegram 友善訊息，處理 Markdown 轉換、HTML 安全跳脫、訊息長度限制與分批傳送輸出。",
+  "category": "automation",
+  "tags": ["telegram", "result.md", "markdown", "batch", "message"],
+  "version": "1.0.0",
+  "support_url": "https://github.com/duotify/GitHubClawToolkit/issues",
+  "homepage": "https://learn.duotify.com/courses/githubclaw",
+  "requireEnv": []
+}
